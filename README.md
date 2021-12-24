@@ -1,6 +1,8 @@
 # vibra-contracts
 Smart contracts for Vibra ecosystem
 
+escrow.sol webshop.sol
+
 ItemType: DIGITAL, PHYSICAL
 ItemStatus: AVAILABLE, IN_TRANSIT, SOLD, REMOVED
 
