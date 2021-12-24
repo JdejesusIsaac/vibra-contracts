@@ -1,7 +1,9 @@
 # vibra-contracts
 Smart contracts for Vibra ecosystem
+controlled by escrow.sol, webshop.sol.
 
-escrow.sol, webshop.sol
+
+How it works
 
 ItemType: DIGITAL, PHYSICAL
 ItemStatus: AVAILABLE, IN_TRANSIT, SOLD, REMOVED
